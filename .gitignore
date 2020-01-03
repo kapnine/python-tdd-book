@@ -1,8 +1,6 @@
 db.sqlite3
 geckodriver.log
 virtualenv
-static
-lists/static
 .idea
 __pycache__
 *.pyc
