@@ -4,7 +4,6 @@ from .base import FunctionalTest
 
 class LayoutAndStylingTest(FunctionalTest):
 
-
     def test_layout_and_styling(self):
         # Edith goes to the home page
         self.browser.get(self.live_server_url)
