@@ -7,3 +7,5 @@ __pycache__
 /static
 .env
 functional_tests/screendumps
+.DS_Store
+functional_tests/.DS_Store
